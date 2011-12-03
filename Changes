@@ -1,0 +1,5 @@
+Revision history for Perl module String::Urandom
+
+0.17
+    - Added module source to Github (au revoir Google Code)
+    - Updated POD with new repository info
